@@ -1,0 +1,12 @@
+{
+  "name": "keila-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://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@github.com/Project-Keila/smart-contracts.git",
+  "author": "JIVIN0902 <jivinvaidya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.2",
+    "@openzeppelin/contracts": "^4.7.0"
+  }
+}
